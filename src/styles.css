@@ -1,0 +1,7 @@
+html, body {
+    background-color: grey;
+}
+
+#webpack-img {
+    max-width: 50%;
+}
